@@ -89,3 +89,9 @@ The following machine learning models were evaluated:
 
 - While none of the evaluated models achieved a perfect balance between recall and precision, XGBoost provided the most suitable trade-off
 for identifying potential churn customers and was selected as the final model.
+
+---
+
+### *Note:*
+
+- This was one of my earlier machine learning projects. While revisiting it later, I identified several areas where I could improve the exploratory data analysis, feature interpretation, and model evaluation process. I have kept the project as part of my learning journey and growth in machine learning.
